@@ -1,0 +1,26 @@
+{
+  "name": "library_2021_09_18",
+  "version": "1.0.0",
+  "description": "The application is for test CRUD-operation with MySQL/MariaDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Didar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Didar83/library_2021_09_18.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Didar83/library_2021_09_18/issues"
+  },
+  "homepage": "https://github.com/Didar83/library_2021_09_18#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "html-pdf": "^3.0.1",
+    "mariadb": "^2.5.4"
+  }
+}
