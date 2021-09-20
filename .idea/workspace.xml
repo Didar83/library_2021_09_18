@@ -16,7 +16,6 @@
   </component>
   <component name="ProjectId" id="1yIoNyr89bpkeY471mWXbUhAv4j" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -25,11 +24,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.20.25" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/routes" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18\routes" />
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18\controllers" />
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18\config" />
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18\app\config" />
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18\files" />
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18" />
+      <recent name="C:\Users\didar.akulov\WebstormProjects\library_2021_09_18\views\pages" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631948426543</updated>
       <workItem from="1631948427627" duration="7366000" />
-      <workItem from="1631962667035" duration="2129000" />
+      <workItem from="1631962667035" duration="40643000" />
     </task>
     <servers />
   </component>
@@ -48,9 +62,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="804" y="-977" width="2324" height="745" key="DiffContextDialog" timestamp="1632102777585">
+      <screen x="662" y="-1080" width="2560" height="1040" />
+    </state>
+    <state x="804" y="-977" width="2324" height="745" key="DiffContextDialog/0.0.1366.728/662.-1080.2560.1040@662.-1080.2560.1040" timestamp="1632102777585" />
     <state x="1060" y="-902" key="SettingsEditor" timestamp="1631962643119">
       <screen x="662" y="-1080" width="2560" height="1040" />
     </state>
     <state x="1060" y="-902" key="SettingsEditor/0.0.1366.728/662.-1080.2560.1040@662.-1080.2560.1040" timestamp="1631962643119" />
+    <state x="1131" y="-917" width="585" height="801" key="find.popup" timestamp="1631975261066">
+      <screen x="662" y="-1080" width="2560" height="1040" />
+    </state>
+    <state x="1131" y="-917" width="585" height="801" key="find.popup/0.0.1366.728/662.-1080.2560.1040@662.-1080.2560.1040" timestamp="1631975261066" />
   </component>
 </project>

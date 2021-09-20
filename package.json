@@ -2,7 +2,7 @@
   "name": "library_2021_09_18",
   "version": "1.0.0",
   "description": "The application is for test CRUD-operation with MySQL/MariaDB",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/Didar83/library_2021_09_18#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "ejs": "^3.1.6",
+    "execsql": "0.0.3",
     "express": "^4.17.1",
     "html-pdf": "^3.0.1",
-    "mariadb": "^2.5.4"
+    "mysql": "^2.18.1",
+    "sequelize": "^6.6.5"
   }
 }
